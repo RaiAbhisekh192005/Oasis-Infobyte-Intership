@@ -15,3 +15,13 @@ The BMI Calculator is a simple yet effective Python program that calculates the 
 
 This project demonstrates the use of basic mathematical operations and conditional statements in Python.
 
+### 2. Password Generator (`password_generator.py`)
+
+The Password Generator is a Python script designed to create strong, random passwords for enhanced security. Users can specify the length and complexity of the password, including options for:
+
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+
+This project highlights the use of randomization functions and string manipulations in Python.
